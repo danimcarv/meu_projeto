@@ -1,2 +1,6 @@
 Linha de texto
+<<<<<<< HEAD
 Linha escrita na main
+=======
+Linha escrita na outra branch
+>>>>>>> outra-branch
