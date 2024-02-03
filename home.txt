@@ -1,2 +1,2 @@
 Linha de texto
-Linha 2
+Linha escrita na outra branch
